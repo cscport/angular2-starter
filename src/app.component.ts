@@ -2,7 +2,7 @@ import {Component} from 'angular2/core';
 //import {RouteConfig, ROUTER_DIRECTIVES} from 'angular2/router';
 
 @Component({
-  selector: 'app',
+  selector: 'main-app',
   template: '<h1>Angular2 Starter App</h1>'
 })
 
